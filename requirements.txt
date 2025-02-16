@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx
+python-multipart
+pydantic-settings
+pillow
+python-magic
