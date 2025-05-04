@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from routers import image, predictions
+from routers import image, predictions, nutrition
 
 app = FastAPI(
     title="Food Recognition API",
@@ -20,6 +20,7 @@ app.add_middleware(
 # Include routers
 app.include_router(image.router, prefix="/api/v1")
 app.include_router(predictions.router, prefix="/api/v1")
+app.include_router(nutrition.router, prefix="/api/v1")
 
 if __name__ == "__main__":
     import uvicorn

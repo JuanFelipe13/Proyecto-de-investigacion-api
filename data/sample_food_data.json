@@ -1,0 +1,187 @@
+[
+  {
+    "fdcId": "2709294",
+    "description": "Apple, candied",
+    "foodCategory": "Fruits",
+    "foodNutrients": [
+      {
+        "nutrientId": 1008,
+        "nutrientName": "Energy",
+        "amount": 347.0
+      },
+      {
+        "nutrientId": 1004,
+        "nutrientName": "Total lipid (fat)",
+        "amount": 0.5
+      },
+      {
+        "nutrientId": 1003,
+        "nutrientName": "Protein",
+        "amount": 0.4
+      },
+      {
+        "nutrientId": 1005,
+        "nutrientName": "Carbohydrate",
+        "amount": 89.2
+      },
+      {
+        "nutrientId": 1079,
+        "nutrientName": "Fiber, total dietary",
+        "amount": 2.1
+      },
+      {
+        "nutrientId": 2000,
+        "nutrientName": "Sugars, total",
+        "amount": 73.4
+      }
+    ]
+  },
+  {
+    "fdcId": "2709215",
+    "description": "Apple, raw",
+    "foodCategory": "Fruits",
+    "foodNutrients": [
+      {
+        "nutrientId": 1008,
+        "nutrientName": "Energy",
+        "amount": 52.0
+      },
+      {
+        "nutrientId": 1004,
+        "nutrientName": "Total lipid (fat)",
+        "amount": 0.17
+      },
+      {
+        "nutrientId": 1003,
+        "nutrientName": "Protein",
+        "amount": 0.26
+      },
+      {
+        "nutrientId": 1005,
+        "nutrientName": "Carbohydrate",
+        "amount": 13.8
+      },
+      {
+        "nutrientId": 1079,
+        "nutrientName": "Fiber, total dietary",
+        "amount": 2.4
+      },
+      {
+        "nutrientId": 2000,
+        "nutrientName": "Sugars, total",
+        "amount": 10.4
+      }
+    ]
+  },
+  {
+    "fdcId": "2709196",
+    "description": "Apple, dried",
+    "foodCategory": "Fruits",
+    "foodNutrients": [
+      {
+        "nutrientId": 1008,
+        "nutrientName": "Energy",
+        "amount": 243.0
+      },
+      {
+        "nutrientId": 1004,
+        "nutrientName": "Total lipid (fat)",
+        "amount": 0.32
+      },
+      {
+        "nutrientId": 1003,
+        "nutrientName": "Protein",
+        "amount": 0.93
+      },
+      {
+        "nutrientId": 1005,
+        "nutrientName": "Carbohydrate",
+        "amount": 65.9
+      },
+      {
+        "nutrientId": 1079,
+        "nutrientName": "Fiber, total dietary",
+        "amount": 8.7
+      },
+      {
+        "nutrientId": 2000,
+        "nutrientName": "Sugars, total",
+        "amount": 57.2
+      }
+    ]
+  },
+  {
+    "fdcId": "2708023",
+    "description": "Crisp, apple",
+    "foodCategory": "Baked goods",
+    "foodNutrients": [
+      {
+        "nutrientId": 1008,
+        "nutrientName": "Energy",
+        "amount": 421.0
+      },
+      {
+        "nutrientId": 1004,
+        "nutrientName": "Total lipid (fat)",
+        "amount": 17.3
+      },
+      {
+        "nutrientId": 1003,
+        "nutrientName": "Protein",
+        "amount": 3.9
+      },
+      {
+        "nutrientId": 1005,
+        "nutrientName": "Carbohydrate",
+        "amount": 67.2
+      },
+      {
+        "nutrientId": 1079,
+        "nutrientName": "Fiber, total dietary",
+        "amount": 4.2
+      },
+      {
+        "nutrientId": 2000,
+        "nutrientName": "Sugars, total",
+        "amount": 35.1
+      }
+    ]
+  },
+  {
+    "fdcId": "2709220",
+    "description": "Apple, baked",
+    "foodCategory": "Fruits",
+    "foodNutrients": [
+      {
+        "nutrientId": 1008,
+        "nutrientName": "Energy",
+        "amount": 90.0
+      },
+      {
+        "nutrientId": 1004,
+        "nutrientName": "Total lipid (fat)",
+        "amount": 0.2
+      },
+      {
+        "nutrientId": 1003,
+        "nutrientName": "Protein",
+        "amount": 0.3
+      },
+      {
+        "nutrientId": 1005,
+        "nutrientName": "Carbohydrate",
+        "amount": 23.8
+      },
+      {
+        "nutrientId": 1079,
+        "nutrientName": "Fiber, total dietary",
+        "amount": 2.3
+      },
+      {
+        "nutrientId": 2000,
+        "nutrientName": "Sugars, total",
+        "amount": 18.9
+      }
+    ]
+  }
+] 
